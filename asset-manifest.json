@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seasons-identifire/static/css/main.55c0643f.css",
+    "main.js": "/seasons-identifire/static/js/main.eebe7c2c.js",
+    "index.html": "/seasons-identifire/index.html",
+    "main.55c0643f.css.map": "/seasons-identifire/static/css/main.55c0643f.css.map",
+    "main.eebe7c2c.js.map": "/seasons-identifire/static/js/main.eebe7c2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c0643f.css",
+    "static/js/main.eebe7c2c.js"
+  ]
+}
